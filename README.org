@@ -1,0 +1,7 @@
+* Custom Pinball Resources
+
+This repo contains some resources for custom pinball development.  Right now it contains a few CAD models I wanted to share with others but I hope to fill out this repo with more details in the future.
+  
+** Models
+   
+NOTE: The models in this repo are accurate to the best of my knowledge but I make no guarantees as to their correctness.  Please file an issue in github if you notice any inaccuracies.
